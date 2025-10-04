@@ -28,10 +28,9 @@ Our final optimized model achieved an outstanding **mAP@0.5 score of 80.1%** on 
 
 Our space-themed application provides a clean and intuitive interface for safety audits. Users can either upload an image or use a live webcam feed.
 
-| Main Interface | Detection Results |
-| :---: | :---: |
-* | ![Results](assets/upload.jpg) | 
-* | ![Results using webcam](assets/webcam.jpg) |
+
+* Results  ![Results](assets/upload.jpg) 
+* Results Using Webcam  ![Results using webcam](assets/webcam.jpg) 
 
 ---
 
