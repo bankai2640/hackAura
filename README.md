@@ -24,6 +24,17 @@ Our final optimized model achieved an outstanding **mAP@0.5 score of 80.1%** on 
 
 ---
 
+## 🖼️ Application Preview
+
+Our space-themed application provides a clean and intuitive interface for safety audits. Users can either upload an image or use a live webcam feed.
+
+| Main Interface | Detection Results |
+| :---: | :---: |
+* | ![Results](assets/upload.jpg) | 
+* | ![Results using webcam](assets/webcam.jpg) |
+
+---
+
 ## ✨ Key Features
 
 * **High-Performance Detection Model:** A fine-tuned YOLOv8s model that accurately detects 7 classes of safety equipment with 80.1% mAP@0.5.
