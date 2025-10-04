@@ -10,9 +10,8 @@ This project is a submission for the Duality AI's Space Station Challenge: Safet
 
 You can access and interact with our live application, deployed on Render, at the following URL:
 
-**[➡️ Click here to launch the Safety Auditor App](https://your-public-render-url.onrender.com)**
+**[➡️ Click here to launch the Safety Auditor App](https://hackaura-f5bdbac9appv32pwoxxd5mj.streamlit.app/)**
 
-*(**Note:** Please replace the link above with the public URL provided by Render, as the private IP address will not be accessible.)*
 
 ---
 
